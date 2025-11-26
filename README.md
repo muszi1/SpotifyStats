@@ -61,4 +61,3 @@ Open the Vite dev server URL (defaults to http://127.0.0.1:5173).
 
 ## Photo
 <img width="2511" height="1397" alt="image" src="https://github.com/user-attachments/assets/d41bcf33-3751-434f-a8b8-6889e86e08d9" />
-
